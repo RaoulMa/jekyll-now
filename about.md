@@ -9,6 +9,13 @@ A short version of my CV is given below:
 
 <table style="text-align: left; width: 740px;" border="0" cellpadding="2" cellspacing="2">
 <tr>
+<td style="white-space: nowrap; background-color: rgb(222, 222, 222); width: 800px;">
+<b><font color="#555555">&nbsp; Education </b></font></td>
+</tr>
+</table>
+
+<table style="text-align: left; width: 740px;" border="0" cellpadding="2" cellspacing="2">
+<tr>
 	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
 		Aug. 2012 - Nov. 2016 <br>
 		<span style="color:#AAAAAA">
@@ -77,7 +84,6 @@ A short version of my CV is given below:
 <td style="white-space: nowrap; background-color: rgb(222, 222, 222); width: 800px;">
 <b><font color="#555555">&nbsp; Awards and Scholarships </b></font></td>
 </tr>
-</tbody>
 </table>
 
 <table style="text-align: left; width: 740px;" border="0" cellpadding="2" cellspacing="2">
