@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /topfive/
 ---
 
 <div style="text-align:justify;">
