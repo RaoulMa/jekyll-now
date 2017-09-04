@@ -5,6 +5,8 @@ permalink: /about/
 
 I have finished my PhD in theoretical high energy physics at the Johannes Gutenberg-University in Mainz, Germany. In my work, I was investigating extra-dimensional models that might describe the interactions between fundamental particles. Besides my scientific research, I'm interested in artificial intelligence, financial mathematics, bouldering, mountain climbing and trail running.
 
+A short CV is given below:
+
 <table style="text-align: left; width: 600px;" border="0" cellpadding="2" cellspacing="2">
 <tr>
 	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
