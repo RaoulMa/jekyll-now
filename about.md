@@ -10,7 +10,7 @@ A short version of my CV is given below:
 <table style="text-align: left; width: 740px;" border="0" cellpadding="2" cellspacing="2">
 <tr>
 <td style="white-space: nowrap; background-color: rgb(222, 222, 222); width: 800px;">
-<b><font color="#555555">&nbsp; Education </b></font></td>
+<b><font color="#555555">&nbsp; Education</font></b></td>
 </tr>
 </table>
 
@@ -56,33 +56,12 @@ A short version of my CV is given below:
 	<u>Thesis title:</u> &quot;Mitigation of the Epsilon K Fine-tuning Problem in the Randall-Sundrum Model&quot;<br>
 	</td>
 </tr>
-<tr>
-	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
-		May 2005 - Jan. 2006 <br>
-		<span style="color:#AAAAAA">
-		</span>
-	</td>
-	<td style="width: 540px; vertical-align: top;">
-	<strong>Civilian service </strong><br>St. Vincenz and Elisabeth Hospital, Mainz, Germany
-	<br>
-	</td>
-</tr>
-<tr>
-	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
-		Apr. 2006 - May 2012 <br>
-		<span style="color:#AAAAAA">
-		</span>
-	</td>
-	<td style="width: 540px; vertical-align: top;">
-	<strong>Abitur (equivalent to A-levels in Great Britain) </strong><br>&quot;Gymnasium am Kurf¸rstlichen Schloss&quot;, Mainz, Germany
-	<br>
-	</td>
-</tr></table>
+</table>
 
-<table style="text-align: left; width: 600px;" border="0" cellpadding="2" cellspacing="2">
+<table style="text-align: left; width: 740px;" border="0" cellpadding="2" cellspacing="2">
 <tr>
 <td style="white-space: nowrap; background-color: rgb(222, 222, 222); width: 800px;">
-<b><font color="#555555">&nbsp; Awards and Scholarships </b></font></td>
+<b><font color="#555555">&nbsp; Awards and Scholarships</font></b></td>
 </tr>
 </table>
 
