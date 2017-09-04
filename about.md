@@ -19,7 +19,6 @@ A short version of my CV is given below:
 	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
 		Aug. 2012 - Nov. 2016 <br>
 		<span style="color:#AAAAAA">
-		
 		</span>
 	</td>
 	<td style="width: 540px; vertical-align: top;">
@@ -28,12 +27,10 @@ A short version of my CV is given below:
 	<u>Thesis title:</u> &quot;Five-dimensional Perspective on Higgs Physics and the b to s gamma Transition in a Warped Extra Dimension&quot;<br>
 	</td>
 </tr>
-
 <tr>
 	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
 		Apr. 2008 - Apr. 2009 <br>
 		<span style="color:#AAAAAA">
-		
 		</span>
 	</td>
 	<td style="width: 540px; vertical-align: top;">
