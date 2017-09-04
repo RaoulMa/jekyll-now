@@ -4,3 +4,126 @@ permalink: /about/
 ---
 
 I have finished my PhD in theoretical high energy physics at the Johannes Gutenberg-University in Mainz, Germany. In my work, I was investigating extra-dimensional models that might describe the interactions between fundamental particles. Besides my scientific research, I'm interested in artificial intelligence, financial mathematics, bouldering, mountain climbing and trail running.
+
+<table style="text-align: left; width: 600px;" border="0" cellpadding="2" cellspacing="2">
+<tr>
+	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
+		Aug. 2012 - Nov. 2016 <br>
+		<span style="color:#AAAAAA">
+		
+		</span>
+	</td>
+	<td style="width: 400px; vertical-align: top;">
+	<strong>Doctoral studies in theoretical high-energy physics</strong><br> Johannes-Gutenberg University Mainz, Germany
+	<br>
+	<u>Thesis title:</u> &quot;Five-dimensional Perspective on Higgs Physics and the b to s gamma Transition in a Warped Extra Dimension&quot;<br>
+	</td>
+</tr>
+
+<tr>
+	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
+		Apr. 2008 - Apr. 2009 <br>
+		<span style="color:#AAAAAA">
+		
+		</span>
+	</td>
+	<td style="width: 400px; vertical-align: top;">
+	<strong>Research assistant in QUANTUM group</strong><br> Johannes-Gutenberg University Mainz, Germany
+	<br>
+	<u>Project:</u> &quot;Construction of an Optical Fiber-based Biosensor&quot;<br>
+	</td>
+</tr>
+
+<tr>
+	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
+		Apr. 2006 - May 2012 <br>
+		<span style="color:#AAAAAA">
+		
+		</span>
+	</td>
+	<td style="width: 400px; vertical-align: top;">
+	<strong>Diploma studies in theoretical high-energy physics </strong><br> Johannes-Gutenberg University Mainz, Germany
+	<br>
+	<u>Thesis title:</u> &quot;Mitigation of the Epsilon K Fine-tuning Problem in the Randall-Sundrum Model&quot;<br>
+	</td>
+</tr>
+<tr>
+	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
+		May 2005 - Jan. 2006 <br>
+		<span style="color:#AAAAAA">
+		</span>
+	</td>
+	<td style="width: 400px; vertical-align: top;">
+	<strong>Civilian service </strong><br>St. Vincenz and Elisabeth Hospital, Mainz, Germany
+	<br>
+	</td>
+</tr>
+<tr>
+	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
+		Apr. 2006 - May 2012 <br>
+		<span style="color:#AAAAAA">
+		</span>
+	</td>
+	<td style="width: 400px; vertical-align: top;">
+	<strong>Abitur (equivalent to A-levels in Great Britain) </strong><br>&quot;Gymnasium am Kurf¸rstlichen Schloss&quot;, Mainz, Germany
+	<br>
+	</td>
+</tr></table>
+
+<table style="text-align: left; width: 600px;" border="0" cellpadding="2" cellspacing="2">
+<tr>
+<td style="white-space: nowrap; background-color: rgb(222, 222, 222); width: 800px;">
+<b><font color="#555555">&nbsp; Awards and Scholarships </b></font></td>
+</tr>
+</tbody>
+</table>
+
+<table style="text-align: left; width: 600px;" border="0" cellpadding="2" cellspacing="2">
+<tr>
+	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
+		May 2013 - May 2015<br>
+		<span style="color:#AAAAAA">
+		</span>
+	</td>
+	<td style="width: 400px; vertical-align: top;">
+	<strong>Junior membership of the Gutenberg Academy</strong><br> Johannes-Gutenberg University Mainz, Germany
+	<br>
+	</td>
+</tr>
+<tr>
+	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
+		Aug. 2012 - Aug. 2014<br>
+		<span style="color:#AAAAAA">
+		</span>
+	</td>
+	<td style="width: 400px; vertical-align: top;">
+	<strong>Fellowship through the Graduate School</strong><br>&quot;Symmetry Breaking in Fundamental Interactions&quot; (DFG/GRK 1581)<br>Johannes-Gutenberg University Mainz, Germany<br>(student representative from Aug. 2013 - Aug. 2014)
+	<br>
+	</td>
+</tr>
+<tr>
+	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
+		Jan. 2013<br>
+		<span style="color:#AAAAAA">
+		</span>
+	</td>
+	<td style="width: 400px; vertical-align: top;">
+	<strong>Prize for outstanding diploma thesis of the faculty &quot;Physics, Mathematics and Computer Science&quot;</strong><br>Johannes-Gutenberg University Mainz, Germany
+	<br>
+	</td>
+</tr>
+<tr>
+	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
+		Feb. 2004 - Apr. 2004<br>
+		<span style="color:#AAAAAA">
+		</span>
+	</td>
+	<td style="width: 400px; vertical-align: top;">
+	<strong>Participation in &quot;Jugend forscht&quot; (field technology)</strong>
+<br><u>C++ Project:</u> &quot;Spracherkennung: ihre Realisierung und Anwendung&quot;<br>
+Regional competition: 1st place<br>
+Rhineland-Palatinate competition: 3rd place
+	<br>
+	</td>
+</tr>
+</table>
