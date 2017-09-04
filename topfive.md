@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 <div style="text-align:justify;">
 This is a small selection of books that have inspired my thinking.
 <br><br>
