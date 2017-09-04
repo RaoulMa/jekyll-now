@@ -35,13 +35,13 @@ However, up to now the collaborations at collider experiments have not found any
 <strong>Doctoral thesis</strong>
 <ul>
 <li>
-<a href="{{ site.baseurl }}/_physics/doctoralthesis.pdf">Five-dimensional Perspective on Higgs Physics and the b to s gamma Transition in a Warped Extra Dimension</a>
+<a href="{{ site.baseurl }}/physics/doctoralthesis.pdf">Five-dimensional Perspective on Higgs Physics and the b to s gamma Transition in a Warped Extra Dimension</a>
 </li>
 </ul>
 <strong>Diploma thesis</strong>
 <ul>
 <li>
-<a href="{{ site.baseurl }}/_physics/diplomathesis.pdf">Mitigation of the Epsilon K Fine-tuning Problem in the Randall-Sundrum Model</a>
+<a href="{{ site.baseurl }}/physics/diplomathesis.pdf">Mitigation of the Epsilon K Fine-tuning Problem in the Randall-Sundrum Model</a>
 </li>
 </ul>
 <strong>Talks</strong>
