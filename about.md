@@ -28,8 +28,6 @@ A short version of my CV is given below:
 <tr>
 	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
 		Apr. 2008 - Apr. 2009 <br>
-		<span style="color:#AAAAAA">
-		</span>
 	</td>
 	<td style="width: 540px; vertical-align: top;">
 	<strong>Research assistant in QUANTUM group</strong><br> Johannes-Gutenberg University Mainz, Germany
@@ -41,8 +39,6 @@ A short version of my CV is given below:
 <tr>
 	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
 		Apr. 2006 - May 2012 <br>
-		<span style="color:#AAAAAA">
-		</span>
 	</td>
 	<td style="width: 540px; vertical-align: top;">
 	<strong>Diploma studies in theoretical high-energy physics </strong><br> Johannes-Gutenberg University Mainz, Germany
@@ -63,8 +59,6 @@ A short version of my CV is given below:
 <tr>
 	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
 		May 2013 - May 2015<br>
-		<span style="color:#AAAAAA">
-		</span>
 	</td>
 	<td style="width: 540px; vertical-align: top;">
 	<strong>Junior membership of the Gutenberg Academy</strong><br> Johannes-Gutenberg University Mainz, Germany
@@ -85,8 +79,6 @@ A short version of my CV is given below:
 <tr>
 	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
 		Jan. 2013<br>
-		<span style="color:#AAAAAA">
-		</span>
 	</td>
 	<td style="width: 540px; vertical-align: top;">
 	<strong>Prize for outstanding diploma thesis of the faculty &quot;Physics, Mathematics and Computer Science&quot;</strong><br>Johannes-Gutenberg University Mainz, Germany
@@ -96,8 +88,6 @@ A short version of my CV is given below:
 <tr>
 	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
 		Feb. 2004 - Apr. 2004<br>
-		<span style="color:#AAAAAA">
-		</span>
 	</td>
 	<td style="width: 540px; vertical-align: top;">
 	<strong>Participation in &quot;Jugend forscht&quot; (field technology)</strong>
