@@ -44,7 +44,7 @@ A short version of my CV is given below:
 <tr>
 	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
 	May 2017<br></td>
-	<td style="width: 540px; vertical-align: top;"><strong>Prize for excellent doctoral thesis given by Freunde der Universität Mainz e.V. <br></td>
+	<td style="width: 540px; vertical-align: top;"><strong>Prize for excellent doctoral thesis given by Freunde der Universität Mainz e.V.</strong><br></td>
 </tr>
 <tr>
 	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
