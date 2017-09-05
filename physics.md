@@ -60,13 +60,13 @@ However, up to now the collaborations at collider experiments have not found any
 <strong>Posters</strong>
 <ul>
 <li>
-<a href="{{ site.baseurl }}/physics/Talks/poster_2015.pdf">Impact of Warped Extra Dimensions on the Dipole Coefficients in b to s gamma Transitions</a>
+<a href="{{ site.baseurl }}/physics/Talks/Poster_2015.pdf">Impact of Warped Extra Dimensions on the Dipole Coefficients in b to s gamma Transitions</a>
 </li>
 <li>
-<a href="{{ site.baseurl }}/physics/Talks/poster_2013.pdf">5D Perspective on Higgs Production at the Boundary of a Warped Extra Dimension</a>
+<a href="{{ site.baseurl }}/physics/Talks/Poster_2013.pdf">5D Perspective on Higgs Production at the Boundary of a Warped Extra Dimension</a>
 </li>
 <li>
-<a href="{{ site.baseurl }}/physics/Talks/poster_2012.pdf">Solution to the RS Flavour Problem</a>
+<a href="{{ site.baseurl }}/physics/Talks/Poster_2012.pdf">Solution to the RS Flavour Problem</a>
 </li>
 </ul>
 
