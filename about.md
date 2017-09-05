@@ -8,11 +8,8 @@ I have finished my PhD in theoretical high energy physics at the Johannes Gutenb
 A short version of my CV is given below:
 
 <table style="text-align: left; width: 740px;" border="0" cellpadding="2" cellspacing="2">
-<tr>
-<td style="white-space: nowrap; background-color: rgb(222, 222, 222); width: 800px;">
-<b><font color="#555555">&nbsp; Education</font></b></td>
-</tr>
-</table>
+<tr><td style="white-space: nowrap; background-color: rgb(222, 222, 222); width: 800px;">
+<b><font color="#555555">Academic Education</font></b></td></tr></table>
 
 <table style="text-align: left; width: 740px;" border="0" cellpadding="2" cellspacing="2">
 <tr>
