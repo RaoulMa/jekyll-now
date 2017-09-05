@@ -16,7 +16,7 @@ A short version of my CV is given below:
 	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
 		Aug. 2012 - Nov. 2016 <br></td>
 	<td style="width: 540px; vertical-align: top;">
-	<strong>Doctoral studies in theoretical high-energy physics</strong><br> Johannes-Gutenberg University Mainz, Germany
+	<strong>Doctoral studies in theoretical high-energy physics (grade: summa cum laude)</strong><br> Johannes-Gutenberg University Mainz, Germany
 	<br><u>Thesis title:</u> &quot;Five-dimensional Perspective on Higgs Physics and the b to s gamma Transition in a 		Warped Extra Dimension&quot;<br></td>
 </tr>
 <tr>
@@ -30,7 +30,7 @@ A short version of my CV is given below:
 	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
 		Apr. 2006 - May 2012 <br></td>
 	<td style="width: 540px; vertical-align: top;">
-	<strong>Diploma studies in theoretical high-energy physics </strong><br> Johannes-Gutenberg University Mainz, Germany
+	<strong>Diploma studies in theoretical high-energy physics (grade: 1.0) </strong><br> Johannes-Gutenberg University Mainz, Germany
 	<br><u>Thesis title:</u> &quot;Mitigation of the Epsilon K Fine-tuning Problem in the Randall-Sundrum Model&quot;<br>
 	</td>
 </tr>
@@ -44,7 +44,7 @@ A short version of my CV is given below:
 <tr>
 	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
 	May 2017<br></td>
-	<td style="width: 540px; vertical-align: top;"><strong>Prize for excellent doctoral thesis given by Freunde der Universität Mainz e.V.</strong><br></td>
+	<td style="width: 540px; vertical-align: top;"><strong>Prize for excellent doctoral thesis given by Freunde der 	Universität Mainz e.V.</strong><br></td>
 </tr>
 <tr>
 	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
