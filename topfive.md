@@ -4,7 +4,7 @@ permalink: /topfive/
 ---
 
 <div style="text-align:justify;">
-This is a small selection of books that have inspired my thinking.
+Below is a small selection of books that have inspired my thinking.
 <br><br>
 
 <strong>Five Physics Books</strong>
