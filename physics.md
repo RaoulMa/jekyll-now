@@ -44,29 +44,29 @@ However, up to now the collaborations at collider experiments have not found any
 <strong>Talks</strong>
 <ul>
 <li>
-<a href="{{ site.baseurl }}/physics/talks/GRK_2014.pdf">Loop Processes and Higgs Phenomenology in a Warped Extra Dimension</a>
+<a href="{{ site.baseurl }}/physics/Talks/GRK_2014.pdf">Loop Processes and Higgs Phenomenology in a Warped Extra Dimension</a>
 </li>
 <li>
-<a href="{{ site.baseurl }}/physics/talks/GRK_2013.pdf">5D Perspective on Higgs Production via Gluon Fusion at the Boundary of a Warped Extra Dimension</a>
+<a href="{{ site.baseurl }}/physics/Talks/GRK_2013.pdf">5D Perspective on Higgs Production via Gluon Fusion at the Boundary of a Warped Extra Dimension</a>
 </li>
 <li>
-<a href="{{ site.baseurl }}/physics/talks/GRK_2012.pdf">Mitigation of the Epsilon K Fine-tuning Problem in the Randall-Sundrum Model</a>
+<a href="{{ site.baseurl }}/physics/Talks/GRK_2012.pdf">Mitigation of the Epsilon K Fine-tuning Problem in the Randall-Sundrum Model</a>
 </li>
 <li>
-<a href="{{ site.baseurl }}/physics/talks/Neutrinos_2012.pdf">Neutrinos faster than light? Theoretical aspects</a>
+<a href="{{ site.baseurl }}/physics/Talks/Neutrinos_2012.pdf">Neutrinos faster than light? Theoretical aspects</a>
 </li>
 </ul>
 
 <strong>Posters</strong>
 <ul>
 <li>
-<a href="{{ site.baseurl }}/physics/talks/poster_2015.pdf">Impact of Warped Extra Dimensions on the Dipole Coefficients in b to s gamma Transitions</a>
+<a href="{{ site.baseurl }}/physics/Talks/poster_2015.pdf">Impact of Warped Extra Dimensions on the Dipole Coefficients in b to s gamma Transitions</a>
 </li>
 <li>
-<a href="{{ site.baseurl }}/physics/talks/poster_2013.pdf">5D Perspective on Higgs Production at the Boundary of a Warped Extra Dimension</a>
+<a href="{{ site.baseurl }}/physics/Talks/poster_2013.pdf">5D Perspective on Higgs Production at the Boundary of a Warped Extra Dimension</a>
 </li>
 <li>
-<a href="{{ site.baseurl }}/physics/talks/poster_2012.pdf">Solution to the RS Flavour Problem</a>
+<a href="{{ site.baseurl }}/physics/Talks/poster_2012.pdf">Solution to the RS Flavour Problem</a>
 </li>
 </ul>
 
