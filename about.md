@@ -60,7 +60,7 @@ A short version of my CV is given below:
 </tr>
 <tr>
 	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
-		Jan. 2013<br></td>
+		Jan. 2013<br></td>		
 	<td style="width: 540px; vertical-align: top;">
 	<strong>Prize for outstanding diploma thesis of the faculty &quot;Physics, Mathematics and Computer Science&quot;	</strong><br>Johannes-Gutenberg University Mainz, Germany <br></td>
 </tr>
@@ -75,3 +75,6 @@ A short version of my CV is given below:
 	<br></td>
 </tr>
 </table>
+<br>
+PS: If you are interested in arts, check out the webpage <http://www.annalisatheisen.de> of a friend of mine. 
+
