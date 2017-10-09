@@ -39,6 +39,5 @@ Below is a small selection of books that have inspired my thinking.
 <li>Siddharta - H. Hesse</li>
 <li>Der Mythos des Sisyphos - A. Camus</li>
 <li>Der Fremde - A. Camus</li>
-<li>Der alte Mann und das Meer - E. Hemingway</li>
-<br>                                
+<li>Der alte Mann und das Meer - E. Hemingway</li>                             
 </div>
