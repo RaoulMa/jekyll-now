@@ -16,7 +16,7 @@ A short version of my CV is given below:
 	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
 		Aug. 2012 - Nov. 2016 <br></td>
 	<td style="width: 540px; vertical-align: top;">
-	<strong>Doctoral studies in theoretical high-energy physics (grade: summa cum laude)</strong><br> Johannes-Gutenberg University Mainz, Germany
+	<strong>Doctoral studies in theoretical high-energy physics, Grade: 0.7 (summa cum laude)</strong><br> Johannes-Gutenberg University Mainz, Germany
 	<br><u>Thesis title:</u> &quot;Five-dimensional Perspective on Higgs Physics and the b to s gamma Transition in a 		Warped Extra Dimension&quot;<br></td>
 </tr>
 <tr>
@@ -30,7 +30,7 @@ A short version of my CV is given below:
 	<td style="white-space: width: 200px; background-color: rgb(255, 255, 255); vertical-align: top;">
 		Apr. 2006 - May 2012 <br></td>
 	<td style="width: 540px; vertical-align: top;">
-	<strong>Diploma studies in theoretical high-energy physics (grade: 1.0) </strong><br> Johannes-Gutenberg University Mainz, Germany
+	<strong>Diploma studies in theoretical high-energy physics, Grade: 1.0 </strong><br> Johannes-Gutenberg University Mainz, Germany
 	<br><u>Thesis title:</u> &quot;Mitigation of the Epsilon K Fine-tuning Problem in the Randall-Sundrum Model&quot;<br>
 	</td>
 </tr>
@@ -69,7 +69,7 @@ A short version of my CV is given below:
 		Feb. 2004 - Apr. 2004<br></td>
 	<td style="width: 540px; vertical-align: top;">
 	<strong>Participation in &quot;Jugend forscht&quot; (field technology)</strong>
-	<br><u>C++ Project:</u> &quot;Spracherkennung: ihre Realisierung und Anwendung&quot;<br>
+	<br><u>C++ project:</u> &quot;Speech recognition: Realisation and Application&quot;<br>
 	Regional competition: 1st place<br>
 	Rhineland-Palatinate competition: 3rd place
 	<br></td>
