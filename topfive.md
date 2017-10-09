@@ -10,7 +10,7 @@ Below is a small selection of books that have inspired my thinking.
 <strong>Natural Sciences</strong>
 <li>Six (not so) easy pieces - R. P. Feynman</li>
 <li>In search of Schrödinger's cat - J. Gribbin </li>
-<li>What is life? - E. Schrödinger
+<li>What is life? - E. Schrödinger</li>
 <li>The road to reality - R. Penrose</li>
 <li>Anomalies in Quantum Field Theory - R.A. Bertlmann</li>
 <li>Gauge Theory of Elementary Particles - T. Cheng, L. Li</li>
