@@ -5,7 +5,7 @@ permalink: /about/
 
 I have finished my PhD in theoretical high energy physics at the Johannes Gutenberg-University in Mainz, Germany. In my work, I was investigating extra-dimensional models that might describe the interactions between fundamental particles. Besides my scientific research, I'm interested in artificial intelligence, machine learning, financial mathematics, bouldering, mountain climbing and trail running.
 
-A short version of my CV is given below:
+A short version of my CV is given below. For a more detailed version visit <https://www.linkedin.com/in/raoulmalm>.
 
 <table style="text-align: left; width: 740px;" border="0" cellpadding="2" cellspacing="2">
 <tr><td style="white-space: nowrap; background-color: rgb(222, 222, 222); width: 800px;">
