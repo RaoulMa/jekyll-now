@@ -116,6 +116,6 @@ In my diploma studies I was a research assistant in the QUANTUM group of Prof. D
 
 <br><br>
 
-In school I have taken part in "jugend forscht", which is German Youth Science Competition. My project was to navigate a small vehicle by speaking commands into a microphone. I have written a C++ program that calculated the Mel-Frequency-Cepstral (MFC) coefficients of a voice recording. I trained my program with voice recordings for words like forwards, backwards, left, right and stop. Then, in the test phase the program classified the current voice recording, which worked quite well if the surroundings were not too noisy <a href = "{{ site.baseurl }}/mixed/Project_SpeechRecognition.pdf"> (summary in German) </a>. 
+In school I have taken part in "jugend forscht", which is a German Youth Science Competition. My project was to navigate a small vehicle by speaking commands into a microphone. I have written a C++ program that calculated the Mel-Frequency-Cepstral (MFC) coefficients of a voice recording. I trained my program with voice recordings for words like forwards, backwards, left, right and stop. Then, in the test phase the program classified the current voice recording, which worked quite well if the surroundings were not too noisy <a href = "{{ site.baseurl }}/mixed/Project_SpeechRecognition.pdf"> (summary in German) </a>. 
 
 </div>
