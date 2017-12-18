@@ -1,17 +1,21 @@
 ---
 layout: page
-permalink: /topfive/
+permalink: /personal/
 ---
 
 <div style="text-align:justify;">
+  
+<p><img style="float: left;" src="images/Cellularis20.jpg" /> If you are interested in arts check out the website www.annalisatheisen.de of a friend of mine. </p>
+
+  
+<!-- 
 Below is a small selection of books that have inspired my thinking.
 <br><br>
-
 <strong>Natural Sciences</strong>
 <li>Six (not so) easy pieces - R. P. Feynman</li>
 <li>In search of Schrödinger's cat - J. Gribbin </li>
 <li>What is life? - E. Schrödinger</li>
-<li>The road to reality - R. Penrose</li>
+<li>The Road to Reality - R. Penrose</li>
 <li>Anomalies in Quantum Field Theory - R.A. Bertlmann</li>
 <li>Gauge Theory of Elementary Particles - T. Cheng, L. Li</li>
 <li>Quantum Field Theory I - S. Weinberg</li>
@@ -39,5 +43,6 @@ Below is a small selection of books that have inspired my thinking.
 <li>Siddharta - H. Hesse</li>
 <li>Der Mythos des Sisyphos - A. Camus</li>
 <li>Der Fremde - A. Camus</li>
-<li>Der alte Mann und das Meer - E. Hemingway</li>                             
+<li>Der alte Mann und das Meer - E. Hemingway</li>    
+-->
 </div>
