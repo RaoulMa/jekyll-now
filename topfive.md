@@ -2,43 +2,17 @@
 layout: page
 permalink: /personal/
 ---
-<!--
-<head>
-<style>
-.wrap {
-    width: 100%;
-    overflow:auto;
-}
-.fleft {
-    float:left;
-    width: 33%;
-    background:lightblue;
-    height: 400px;
-}
-.fcenter{
-    float:left;
-    width: 33%;
-    background:lightgreen;
-    height:400px;
-    margin-left:0.25%;
-}
-.fright {
-    float: right;
-    background:pink;
-    height: 400px;
-    width: 33.5%;
-}
-</style>
-</head>
--->
-<!--<div style="text-align:justify;">
-<img style="float: left;" align = "left" src="images/Cellularis20.jpg" width="30%" height=auto/> If you are interested in arts check out the website <a href = "https://www.annalisatheisen.de">www.annalisatheisen.de</a> of a friend of mine.
--->
 
 <div class="wrap">
-    <div class="fleft">Left</div>
-    <div class="fcenter">Center</div>
-    <div class="fright">Right</div>
+    <div class="fleft">
+        <img style="float: left;" align = "left" src="images/Cellularis20.jpg" width="30%" height=auto/>
+    </div>
+    <div class="fright">
+    <div style="text-align:justify;">
+        If you are interested in arts check out the website <a href = "https://www.annalisatheisen.de">www.annalisatheisen.de"        
+        </a> of a friend of mine.
+    </div>
+    </div>
 </div>
 
   
@@ -79,4 +53,3 @@ Below is a small selection of books that have inspired my thinking.
 <li>Der Fremde - A. Camus</li>
 <li>Der alte Mann und das Meer - E. Hemingway</li>    
 -->
-</div>
