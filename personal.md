@@ -3,12 +3,10 @@ layout: page
 permalink: /personal/
 ---
 <div class="wrap">
-    <div class="fleft" width="100%">
-        <img src="/images/Cellularis20.jpg" width="100%" align="left">
+        <img src="/images/Cellularis20.jpg" width="33%" align="left" style="padding:5px;">
         If you are interested in arts check out the website <a href = "https://www.annalisatheisen.de"> annalisatheisen.de        
         </a> of a friend of mine. Her paintings are "reflections on the effects of human actions on fragile ecosystems like      
         forests, coral reefs and the world of insects". 
-    </div>
 </div>
 
 <div class="wrap">
