@@ -9,9 +9,11 @@ permalink: /personal/
     </div>
     <div class="fright">
         If you are interested in arts check out the website <a href = "https://www.annalisatheisen.de">www.annalisatheisen.de"        
-        </a> of a friend of mine. 
+        </a> of a friend of mine. Her paintings are "reflections on the effects of human actions on fragile ecosystems like      
+        forests, coral reefs and the world of insects". 
     </div>
 </div>
+
 
   
 <!-- 
