@@ -24,7 +24,7 @@ In my research, I have investigated the fermion triangle diagram in the context 
 </div>
 </div>
 
-<br><br>
+<br>
 
 However, up to now the collaborations at collider experiments have not found any significant deviation from the predictions of the Standard Model. In addition, for many models, that aim at an explanation of the Higgs hierarchy puzzle, the new physics scale gets pushed into the multi-TeV range. Consequently, the original motivation &#45; the solution to the Higgs hierarchy puzzle &#45; is under strong tension for many models beyond the Standard Model. 
 
