@@ -3,7 +3,7 @@ layout: page
 permalink: /personal/
 ---
 <div class="wrap">
-        <img src="/images/Cellularis20.jpg" width="33%" align="left" style="padding:5px;">
+        <img src="/images/Cellularis20.jpg" width="33%" align="left" style="padding:5px;" border="1px">
         If you are interested in arts check out the website <a href = "http://www.annalisatheisen.de"> annalisatheisen.de        
         </a> of a friend of mine. Her paintings are reflections on the effects of human actions on fragile ecosystems like 
         forests, coral reefs and the world of insects. Through the process of painting, she adopts the visual vocabulary of 
@@ -11,7 +11,6 @@ permalink: /personal/
         and creatures, by implementing experiments with different substances and surfaces.
 </div>
 
-<br>
 <div class="wrap">
     <img src="/images/Biosensor.jpg" width="33%" align="left" style="padding:5px;">
     During my diploma studies I was a research assistant in the QUANTUM group of Prof. Dr. Arnold Rauschenbeutel. My project 
@@ -19,8 +18,7 @@ permalink: /personal/
     field of the very thin glass-fiber (diameter of 500nm) is sensitive to the type of molecules that are close or attached to 
     the fiber <a href = "{{ site.baseurl }}/mixed/Project_OpticalFiberBasedBiosensor.pdf"> (summary in German) </a>.
     </div>
-</div>
-<br>
+
 <div class="wrap">
         <img src="/images/jugend_forscht.jpg" width="33%" align="left" style="padding:5px;">
         In school I have taken part in "jugend forscht", which is a German Youth Science Competition. My project was to             
