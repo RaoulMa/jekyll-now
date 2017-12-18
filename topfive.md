@@ -2,13 +2,10 @@
 layout: page
 permalink: /personal/
 ---
-<head>
-#img_width { width: 500px; }
-</head>
 
 <div style="text-align:justify;">
   
-<img style="float: left;" align = "left" src="images/Cellularis20.jpg" id="img_width"/> If you are interested in arts check out the website <a href = "https://www.annalisatheisen.de">www.annalisatheisen.de</a> of a friend of mine.
+<img style="float: left;" align = "left" src="images/Cellularis20.jpg" width="200px"/> If you are interested in arts check out the website <a href = "https://www.annalisatheisen.de">www.annalisatheisen.de</a> of a friend of mine.
 
   
 <!-- 
