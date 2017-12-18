@@ -4,7 +4,7 @@ permalink: /personal/
 ---
 <div class="wrap">
         <img src="/images/Cellularis20.jpg" width="33%" align="left" style="padding:5px;">
-        If you are interested in arts check out the website <a href = "https://www.annalisatheisen.de"> annalisatheisen.de        
+        If you are interested in arts check out the website <a href = "http://www.annalisatheisen.de"> annalisatheisen.de        
         </a> of a friend of mine. Her paintings are reflections on the effects of human actions on fragile ecosystems like 
         forests, coral reefs and the world of insects. Through the process of painting, she adopts the visual vocabulary of 
         these fascinating biospheres. Furthermore, she develops new painting techniques to capture the diversity of organisms 
