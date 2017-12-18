@@ -4,10 +4,6 @@ permalink: /personal/
 ---
 <head>
 <style>
-.body { overflow: hidden; }
-.column { float: left; }
-.half { width: 50%; }
-.last { float: none; width: auto; }
 .wrap {
     width: 100%;
     overflow:auto;
