@@ -2,20 +2,19 @@
 layout: page
 permalink: /personal/
 ---
+<!--
 <head>
 <style>
 .wrap {
     width: 100%;
     overflow:auto;
 }
-
 .fleft {
     float:left;
     width: 33%;
     background:lightblue;
     height: 400px;
 }
-
 .fcenter{
     float:left;
     width: 33%;
@@ -23,17 +22,15 @@ permalink: /personal/
     height:400px;
     margin-left:0.25%;
 }
-
 .fright {
     float: right;
     background:pink;
     height: 400px;
     width: 33.5%;
-    
 }
 </style>
 </head>
-
+-->
 <!--<div style="text-align:justify;">
 <img style="float: left;" align = "left" src="images/Cellularis20.jpg" width="30%" height=auto/> If you are interested in arts check out the website <a href = "https://www.annalisatheisen.de">www.annalisatheisen.de</a> of a friend of mine.
 -->
