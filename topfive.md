@@ -5,7 +5,7 @@ permalink: /personal/
 
 <div class="wrap">
     <div class="fleft">
-        <img style="float: left;" src="images/Cellularis20.jpg" width="100%" height=auto/>
+        <img src="/images/Cellularis20.jpg" width="100%" height=auto/>
     </div>
     <div class="fright">
     <div style="text-align:justify;">
