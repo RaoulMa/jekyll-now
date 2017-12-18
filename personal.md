@@ -8,7 +8,7 @@ permalink: /personal/
         <img src="/images/Cellularis20.jpg" width="100%">
     </div>
     <div class="fright">
-        If you are interested in arts check out the website <a href = "https://www.annalisatheisen.de">www.annalisatheisen.de"        
+        If you are interested in arts check out the website <a href = "https://www.annalisatheisen.de"> annalisatheisen.de        
         </a> of a friend of mine. Her paintings are "reflections on the effects of human actions on fragile ecosystems like      
         forests, coral reefs and the world of insects". 
     </div>
@@ -35,8 +35,7 @@ permalink: /personal/
         navigate a small vehicle by speaking commands into a microphone. I have written a C++ program that calculated the Mel-
         Frequency-Cepstral (MFC) coefficients of a voice recording. I trained my program with voice recordings for words like 
         forwards, backwards, left, right and stop. Then, in the test phase the program classified the current voice recording, 
-        which worked quite well if the surroundings were not too noisy <a href = "{{ site.baseurl }}/mixed
-        /Project_SpeechRecognition.pdf"> (summary in German) </a>. 
+        which worked quite well if the surroundings were not too noisy <a href = "{{ site.baseurl }}/mixed/Project_SpeechRecognition.pdf"> (summary in German) </a>. 
     </div>
 </div>
 
