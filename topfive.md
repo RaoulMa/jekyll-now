@@ -5,13 +5,11 @@ permalink: /personal/
 
 <div class="wrap">
     <div class="fleft">
-        <img src="/images/Cellularis20.jpg" width="100%" height=auto> </img>
+        <img src="/images/Cellularis20.jpg" width="100%" height=auto >
     </div>
     <div class="fright">
-    <div style="text-align:justify;">
         If you are interested in arts check out the website <a href = "https://www.annalisatheisen.de">www.annalisatheisen.de"        
-        </a> of a friend of mine.
-    </div>
+        </a> of a friend of mine. 
     </div>
 </div>
 
