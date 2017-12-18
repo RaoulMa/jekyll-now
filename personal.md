@@ -13,7 +13,19 @@ permalink: /personal/
         forests, coral reefs and the world of insects". 
     </div>
 </div>
-
+<br>
+<div class="wrap">
+    <div class="fleft">
+        <img src="/images/Biosensor.jpg" width="100%">
+    </div>
+    <div class="fright">
+    During my diploma studies I was a research assistant in the QUANTUM group of Prof. Dr. Arnold Rauschenbeutel. My project 
+    was to construct an optical fiber-based biosensor. The idea was that the absorption/scattering of the evanescent radiation 
+    field of the very thin glass-fiber (diameter of 500nm) is sensitive to the type of molecules that are close or attached to 
+    the fiber <a href = "{{ site.baseurl }}/mixed/Project_OpticalFiberBasedBiosensor.pdf"> (summary in German) </a>.
+    </div>
+</div>
+<br>
 <div class="wrap">
     <div class="fleft">
         <img src="/images/jugend_forscht.jpg" width="100%">
