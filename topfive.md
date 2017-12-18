@@ -2,11 +2,33 @@
 layout: page
 permalink: /personal/
 ---
+<head>
+.body { overflow: hidden; }
+.column { float: left; }
+.half { width: 50%; }
+.last { float: none; width: auto; }
+</head>
 
 <div style="text-align:justify;">
   
-<img style="float: left;" align = "left" src="images/Cellularis20.jpg" width="40%" height=auto/> If you are interested in arts check out the website <a href = "https://www.annalisatheisen.de">www.annalisatheisen.de</a> of a friend of mine.
+<img style="float: left;" align = "left" src="images/Cellularis20.jpg" width="30%" height=auto/> If you are interested in arts check out the website <a href = "https://www.annalisatheisen.de">www.annalisatheisen.de</a> of a friend of mine.
 
+<div class="body">
+                <div id="pictures" class="column half>
+                   <h1>Picture</h1>
+                </div>
+                <div id="contactform" class="column last>
+                   <h1>
+                       <form action="mail.php" method="POST">
+                       <p>Name</p> <input type="text" name="name">
+                       <p>Email</p> <input type="text" name="email">
+                       <p>Message</p><textarea name="message" rows="6" cols="25"></textarea><br />
+                       <input type="submit" value="Send"><input type="reset" value="Clear">
+                       </form>
+                   </h1>
+                </div>
+            </div>
+            
   
 <!-- 
 Below is a small selection of books that have inspired my thinking.
