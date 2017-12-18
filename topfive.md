@@ -4,20 +4,8 @@ permalink: /personal/
 ---
 
 <div class="wrap">
-    <div class="fleft" src="/images/Cellularis20.jpg">
-        <img src="/images/Cellularis20.jpg" width="100%" height=auto/>
-    </div>
-    <div class="fright">
-    <div style="text-align:justify;">
-        If you are interested in arts check out the website <a href = "https://www.annalisatheisen.de">www.annalisatheisen.de"        
-        </a> of a friend of mine.
-    </div>
-    </div>
-</div>
-
-<div class="wrap">
     <div class="fleft">
-        <img style="float: left;" src="images/Cellularis20.jpg" width="100%" height=auto/>
+        <img src="images/Cellularis20.jpg" width="100%">
     </div>
     <div class="fright">
     <div style="text-align:justify;">
