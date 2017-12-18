@@ -3,32 +3,51 @@ layout: page
 permalink: /personal/
 ---
 <head>
+<style>
 .body { overflow: hidden; }
 .column { float: left; }
 .half { width: 50%; }
 .last { float: none; width: auto; }
+.wrap {
+    width: 100%;
+    overflow:auto;
+}
+
+.fleft {
+    float:left;
+    width: 33%;
+    background:lightblue;
+    height: 400px;
+}
+
+.fcenter{
+    float:left;
+    width: 33%;
+    background:lightgreen;
+    height:400px;
+    margin-left:0.25%;
+}
+
+.fright {
+    float: right;
+    background:pink;
+    height: 400px;
+    width: 33.5%;
+    
+}
+</style>
 </head>
 
-<div style="text-align:justify;">
-  
+<!--<div style="text-align:justify;">
 <img style="float: left;" align = "left" src="images/Cellularis20.jpg" width="30%" height=auto/> If you are interested in arts check out the website <a href = "https://www.annalisatheisen.de">www.annalisatheisen.de</a> of a friend of mine.
+-->
 
-<div class="body">
-                <div id="pictures" class="column half>
-                   <h1>Picture</h1>
-                </div>
-                <div id="contactform" class="column last>
-                   <h1>
-                       <form action="mail.php" method="POST">
-                       <p>Name</p> <input type="text" name="name">
-                       <p>Email</p> <input type="text" name="email">
-                       <p>Message</p><textarea name="message" rows="6" cols="25"></textarea><br />
-                       <input type="submit" value="Send"><input type="reset" value="Clear">
-                       </form>
-                   </h1>
-                </div>
-            </div>
-            
+<div class="wrap">
+    <div class="fleft">Left</div>
+    <div class="fcenter">Center</div>
+    <div class="fright">Right</div>
+</div>
+
   
 <!-- 
 Below is a small selection of books that have inspired my thinking.
