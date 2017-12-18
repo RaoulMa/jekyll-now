@@ -7,7 +7,7 @@ permalink: /physics/
 
 <div class="wrap">
     <div class="fleft">
-        <img src="/images/RS_setup1.png" width="100%" border="1"> <br><br>
+        <img src="/images/RS_setup1.png" width="100%" style="padding:1px;border:thin solid black;"> <br><br>
         <img src="/images/RS_setup2.png" width="100%"> <br><br>
         <img src="/images/RS_setup3.png" width="100%"> <br><br>
         <img src="/images/RS_setup4.png" width="100%"> <br><br>
