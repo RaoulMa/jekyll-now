@@ -11,12 +11,18 @@ permalink: /physics/
     </div>
     <div class="fright">
 For five years, I have been working on models with one warped extra dimension, the so-called Randall-Sundrum models <a      
-href="https://arxiv.org/pdf/hep-ph/9905221.pdf">[1]</a>. These models provide an interesting extension of the Standard Model, which describes elementary particles at the fundamental level. The main motivation for Randall-Sundrum models lies in an &quot;aesthetic&quot; problem of the Standard Model, the Higgs hierarchy puzzle: put simply, it is the question why the squared Higgs mass is 34 orders of magnitude smaller than the squared Planck mass. This separation of scales is seen to be &quot;unnatural&quot;. The curvature of the 5D space-time in Randall-Sundrum models allows for an exponential redshifting of the Planck scale to the Tev scale, which reduces the &quot;natural&quot; discrepancy between the squared Higgs and Planck masses to 2-3 orders of magnitude.
+href="https://arxiv.org/pdf/hep-ph/9905221.pdf">[1]</a>. These models provide an interesting extension of the Standard Model, which describes elementary particles at the fundamental level.
     </div>
 </div>
 
-<br>
-For five years, I have been working on models with one warped extra dimension, the so-called Randall-Sundrum models <a href="https://arxiv.org/pdf/hep-ph/9905221.pdf">[1]</a>. These models provide an interesting extension of the Standard Model, which describes elementary particles at the fundamental level. The main motivation for Randall-Sundrum models lies in an &quot;aesthetic&quot; problem of the Standard Model, the Higgs hierarchy puzzle: put simply, it is the question why the squared Higgs mass is 34 orders of magnitude smaller than the squared Planck mass. This separation of scales is seen to be &quot;unnatural&quot;. The curvature of the 5D space-time in Randall-Sundrum models allows for an exponential redshifting of the Planck scale to the Tev scale, which reduces the &quot;natural&quot; discrepancy between the squared Higgs and Planck masses to 2-3 orders of magnitude. 
+<div class="wrap">
+    <div class="fleft">
+        <img src="/images/RS_setup2.png" width="100%">
+    </div>
+    <div class="fright">
+The main motivation for Randall-Sundrum models lies in an &quot;aesthetic&quot; problem of the Standard Model, the Higgs hierarchy puzzle: put simply, it is the question why the squared Higgs mass is 34 orders of magnitude smaller than the squared Planck mass. This separation of scales is seen to be &quot;unnatural&quot;. The curvature of the 5D space-time in Randall-Sundrum models allows for an exponential redshifting of the Planck scale to the Tev scale, which reduces the &quot;natural&quot; discrepancy between the squared Higgs and Planck masses to 2-3 orders of magnitude.
+    </div>
+</div>
 
 <br><br>
 
