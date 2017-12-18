@@ -8,10 +8,10 @@ permalink: /physics/
 <div class="wrap">
     <div class="fleft">
         <img src="/images/RS_setup1.png" width="100%" style="padding:1px;border:thin solid black;"> <br><br>
-        <img src="/images/RS_setup2.png" width="100%"> <br><br>
-        <img src="/images/RS_setup3.png" width="100%"> <br><br>
-        <img src="/images/RS_setup4.png" width="100%"> <br><br>
-        <img src="/images/RS_setup5.png" width="100%"> 
+        <img src="/images/RS_setup2.png" width="100%" style="padding:1px;border:thin solid black;"> <br><br>
+        <img src="/images/RS_setup3.png" width="100%" style="padding:1px;border:thin solid black;"> <br><br>
+        <img src="/images/RS_setup4.png" width="80%" style="padding:1px;border:thin solid black;"> <br><br>
+        <img src="/images/RS_setup5.png" width="100%" style="padding:1px;border:thin solid black;"> 
     </div>
     <div class="fright">
 For five years, I have been working on models with one warped extra dimension, the so-called Randall-Sundrum models <a      
