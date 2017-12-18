@@ -5,7 +5,7 @@ permalink: /personal/
 
 <div class="wrap">
     <div class="fleft">
-        <img src="/images/Cellularis20.jpg" width="100%" height=auto >
+        <img src="/images/Cellularis20.jpg" width="100%">
     </div>
     <div class="fright">
         If you are interested in arts check out the website <a href = "https://www.annalisatheisen.de">www.annalisatheisen.de"        
