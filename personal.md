@@ -9,21 +9,22 @@ permalink: /personal/
 </div>
 
 <div class="wrap" style="padding:5px;border:thin solid black;">
+        <img src="/images/nepal_trekking.jpg" width="33%" align="left" style="padding:5px;">
+        I was solo hiking in the Khumbu region of Nepal. During 13 days of adventure I crossed two  
+        passes (Cho La at 5420m, Renjo La at 5360m), climbed 4 mountains (Chukhung Ri at 5550m, Gokyo Ri at 5357m, Kala Patthar         
+        at 5645m, Nangkar Tshang at 5083m), and visited Everest Basecamp at 5364m. This is a once in a lifetime experience. 
+</div>
+
+<div class="wrap" style="padding:5px;border:thin solid black;">
         <img src="/images/mont_blanc.jpg" width="33%" align="left" style="padding:5px;">
         Amazing trip in the Mont Blanc massif with Josh and Manu. After breakfast at 1:30am in the Refuge de Tete Rousse (3167m), I crossed the  Grand Couloir, climbed up to the Refuge du Gouter and continued ascending to the Dome du Gouter. Since weather and snow  conditions were perfect, I reached the summit of Mont Blanc at 10:15am, having clear views over the French and Italian parts of the Mont Blanc massif. It took 3 more hours to descent to the Refuge du Gouter.
 </div>
 
 <div class="wrap" style="padding:5px;border:thin solid black;">
-        <img src="/images/zugspitze_marathon.jpg" width="33%" align="left" style="padding:5px;">
-The marathon from Ehrwald to Zugspitze started in the morning, at 5am. It took me 9:45 hours to complete the marathon (3965m ascend,1993m descend) and to reach the top of Zugspitze. It was an amazing experience.
+        <img src="/images/zugspitze_marathon.jpg" width="33%" align="left" style="padding:5px;"> 
+        I participated in the Scott Rock Zugspitze Marathon starting in Ehrwald and going up to the highest point in Germany at 2962m above sea level. The event started at 5am in the morning in rainy conditions. Shortly after the start the weather cleared up, and it took me 9:45 hours to complete the marathon (3965m ascend,1993m descend) and to reach the summit of Zugspitze.
 </div>
 
-<div class="wrap" style="padding:5px;border:thin solid black;">
-        <img src="/images/nepal_trekking.jpg" width="33%" align="left" style="padding:5px;">
-        In the beginning of March 2017 I was trekking in the Khumbu region of Nepal. During 13 days of adventure I crossed two  
-        passes (Cho La at 5420m, Renjo La at 5360m), climbed 4 mountains (Chukhung Ri at 5550m, Gokyo Ri at 5357m, Kala Patthar         
-        at 5645m, Nangkar Tshang at 5083m), and visited Everest Basecamp at 5364m. 
-</div>
 <div class="wrap" style="padding:5px;border:thin solid black;">
     <img src="/images/Biosensor.jpg" width="33%" align="left" style="padding:5px;">
     During my diploma studies I was a research assistant in the QUANTUM group of Prof. Dr. Arnold Rauschenbeutel. My project 
