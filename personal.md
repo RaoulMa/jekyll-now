@@ -2,9 +2,11 @@
 layout: page
 permalink: /personal/
 ---
-<div class="wrap" style="padding:5px;border:thin solid black;" style="text-align:justify;">
+<div class="wrap" style="padding:5px;border:thin solid black;">
 <img src="/images/Cellularis20.jpg" width="33%" align="left" style="padding:5px;">
+<div style="text-align:justify;">
 If you are interested in arts please check out the website <a href = "http://www.annalisatheisen.de"> annalisatheisen.de </a> of a friend of mine. Her paintings are reflections on the effects of human actions on fragile ecosystems like forests, coral reefs and the world of insects. Through the process of painting, she adopts the visual vocabulary of these fascinating biospheres. Furthermore, she develops new painting techniques to capture the diversity of organisms and creatures, by implementing experiments with different substances and surfaces.
+</div>
 </div>
 
 <div class="wrap" style="padding:5px;border:thin solid black;" style="text-align:justify;">
@@ -25,8 +27,8 @@ I participated in the Scott Rock Zugspitze marathon starting in Ehrwald and goin
 <div class="wrap" style="padding:5px;border:thin solid black;" style="text-align:justify;">
     <img src="/images/Biosensor.jpg" width="33%" align="left" style="padding:5px;">
     During my diploma studies I was a research assistant in the group of Prof. Dr. Arnold Rauschenbeutel. My project 
-    was to construct an optical fiber-based biosensor. The idea was that the absorption/scattering of the evanescent radiation 
-    field of the very thin glass-fiber (diameter of 500nm) is sensitive to the type of molecules that are close or attached to 
+    was to construct an optical fiber-based biosensor. The idea was that the scattering of the evanescent radiation 
+    field of a very thin glass-fiber is sensitive to the type of molecules that are close or attached to 
     the fiber <a href = "{{ site.baseurl }}/mixed/Project_OpticalFiberBasedBiosensor.pdf"> (summary in German) </a>.<br>
 </div>
 
