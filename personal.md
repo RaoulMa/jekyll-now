@@ -12,7 +12,7 @@ If you are interested in arts please check out the website <a href = "http://www
 <div class="wrap" style="padding:5px;border:thin solid black;" >
 <img src="/images/nepal_trekking.jpg" width="33%" align="left" style="padding:5px;">
 <div style="text-align:justify;">
-I was solo hiking in the Khumbu region of Nepal. The adventure started with flying from Kathmandu to the Tenzing-Hillary airport in Lukla, which can only be approached during daylight hours in good weather. During 13 days I crossed two passes (Cho La at 5420m, Renjo La at 5360m), climbed 4 mountains (Chukhung Ri at 5550m, Gokyo Ri at 5357m, Kala Patthar at 5645m, Nangkar Tshang at 5083m), and visited Everest Basecamp at 5364m.   
+I was solo hiking in the Khumbu region of Nepal. The adventure started with flying from Kathmandu to the Tenzing-Hillary airport in Lukla, which can only be approached during daylight hours in good weather conditions. During 13 days I crossed two passes (Cho La at 5420m, Renjo La at 5360m), climbed 4 mountains (Chukhung Ri at 5550m, Gokyo Ri at 5357m, Kala Patthar at 5645m, Nangkar Tshang at 5083m), and visited Everest Basecamp at 5364m.   
 </div>
 </div>
 
@@ -26,7 +26,7 @@ Amazing trip in the Mont Blanc massif with Josh and Manu. After breakfast at 1:3
 <div class="wrap" style="padding:5px;border:thin solid black;" >
 <img src="/images/zugspitze_marathon.jpg" width="33%" align="left" style="padding:5px;"> 
 <div style="text-align:justify;">
-I participated in the Scott Rock Zugspitze marathon starting in Ehrwald and going up to the highest point in Germany at 2962m above sea level, which lies in the Bavarian Alps. The event started at 5am in the morning in rainy conditions. Shortly after the start the weather cleared up, and it took me 9:45 hours to complete the marathon (3965m ascend, 1993m descend) and to reach the summit of Zugspitze.
+I participated in the Scott Rock Zugspitze marathon starting in Ehrwald and going up to the highest point in Germany at 2962m above sea level, which lies in the Bavarian Alps. The event started at 5am in the morning in rainy conditions. Shortly after the start the weather cleared up, and it took me 9:45 hours to complete the marathon (3965m ascend, 1993m descend) and to reach the summit of Zugspitze. After resting for a while, we could use the Zugspitzbahn to drive back to Ehrwald.
 </div>
 </div>
 
@@ -47,7 +47,7 @@ In school I have taken part in "jugend forscht", which is a German Youth Science
 navigate a small vehicle by speaking commands into a microphone. I have written a C++ program that calculated the Mel-
 Frequency-Cepstral coefficients of a voice recording. I trained my program with voice recordings for words like 
 forwards, backwards, left, right and stop. Then, in the test phase the program classified the current voice recording, 
-which worked quite well if the surroundings were not too noisy <a href = "{{ site.baseurl }}/mixed/Project_SpeechRecognition.pdf"> (summary in German) </a>. 
+which worked quite well if the surroundings were not too noisy <a href = "{{ site.baseurl }}/mixed/Project_SpeechRecognition.pdf"> (German summary) </a>. 
 </div>
 </div>
 
