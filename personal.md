@@ -10,8 +10,8 @@ permalink: /personal/
         these fascinating biospheres. Furthermore, she develops new painting techniques to capture the diversity of organisms 
         and creatures, by implementing experiments with different substances and surfaces.
 </div>
-
-<div class="wrap">
+<br>
+<div class="wrap" style="padding:5px;border:thin solid black;">
     <img src="/images/Biosensor.jpg" width="33%" align="left" style="padding:5px;">
     During my diploma studies I was a research assistant in the QUANTUM group of Prof. Dr. Arnold Rauschenbeutel. My project 
     was to construct an optical fiber-based biosensor. The idea was that the absorption/scattering of the evanescent radiation 
@@ -19,7 +19,7 @@ permalink: /personal/
     the fiber <a href = "{{ site.baseurl }}/mixed/Project_OpticalFiberBasedBiosensor.pdf"> (summary in German) </a>.
 </div>
 
-<div class="wrap">
+<div class="wrap" style="padding:5px;border:thin solid black;">
         <img src="/images/jugend_forscht.jpg" width="33%" align="left" style="padding:5px;">
         In school I have taken part in "jugend forscht", which is a German Youth Science Competition. My project was to             
         navigate a small vehicle by speaking commands into a microphone. I have written a C++ program that calculated the Mel-
