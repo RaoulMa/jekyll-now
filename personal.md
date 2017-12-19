@@ -4,25 +4,23 @@ permalink: /personal/
 ---
 
 <div class="wrap" style="padding:5px;border:thin solid black;">
-        <img src="/images/Cellularis20.jpg" width="33%" align="left" style="padding:5px;">
-        If you are interested in arts please check out the website <a href = "http://www.annalisatheisen.de"> annalisatheisen.de </a> of a friend of mine. Her paintings are reflections on the effects of human actions on fragile ecosystems like forests, coral reefs and the world of insects. Through the process of painting, she adopts the visual vocabulary of these fascinating biospheres. Furthermore, she develops new painting techniques to capture the diversity of organisms and creatures, by implementing experiments with different substances and surfaces.<br>
+<img src="/images/Cellularis20.jpg" width="33%" align="left" style="padding:5px;">
+If you are interested in arts please check out the website <a href = "http://www.annalisatheisen.de"> annalisatheisen.de </a> of a friend of mine. Her paintings are reflections on the effects of human actions on fragile ecosystems like forests, coral reefs and the world of insects. Through the process of painting, she adopts the visual vocabulary of these fascinating biospheres. Furthermore, she develops new painting techniques to capture the diversity of organisms and creatures, by implementing experiments with different substances and surfaces.
 </div>
 
 <div class="wrap" style="padding:5px;border:thin solid black;">
-        <img src="/images/nepal_trekking.jpg" width="33%" align="left" style="padding:5px;">
-        I was solo hiking in the Khumbu region of Nepal. During 13 days of adventure I crossed two  
-        passes (Cho La at 5420m, Renjo La at 5360m), climbed 4 mountains (Chukhung Ri at 5550m, Gokyo Ri at 5357m, Kala Patthar         
-        at 5645m, Nangkar Tshang at 5083m), and visited Everest Basecamp at 5364m. This is a once in a lifetime experience. 
+<img src="/images/nepal_trekking.jpg" width="33%" align="left" style="padding:5px;">
+I was solo hiking in the Khumbu region of Nepal. During 13 days of adventure I crossed two passes (Cho La at 5420m, Renjo La at 5360m), climbed 4 mountains (Chukhung Ri at 5550m, Gokyo Ri at 5357m, Kala Patthar at 5645m, Nangkar Tshang at 5083m), and visited Everest Basecamp at 5364m. This is a once in a lifetime experience. 
 </div>
 
 <div class="wrap" style="padding:5px;border:thin solid black;">
-        <img src="/images/mont_blanc.jpg" width="33%" align="left" style="padding:5px;">
-        Amazing trip in the Mont Blanc massif with Josh and Manu. After breakfast at 1:30am in the Refuge de Tete Rousse (3167m), I crossed the  Grand Couloir, climbed up to the Refuge du Gouter and continued ascending to the Dome du Gouter. Since weather and snow  conditions were perfect, I reached the summit of Mont Blanc at 10:15am, having clear views over the French and Italian parts of the Mont Blanc massif. It took 3 more hours to descent to the Refuge du Gouter.
+<img src="/images/mont_blanc.jpg" width="33%" align="left" style="padding:5px;">
+Amazing trip in the Mont Blanc massif with Josh and Manu. After breakfast at 1:30am in the Refuge de Tete Rousse (3167m), I crossed the  Grand Couloir, climbed up to the Refuge du Gouter and continued ascending to the Dome du Gouter. Since weather and snow  conditions were perfect, I reached the summit of Mont Blanc at 10:15am, having clear views over the French and Italian parts of the Mont Blanc massif. It took 3 more hours to descent to the Refuge du Gouter.
 </div>
 
 <div class="wrap" style="padding:5px;border:thin solid black;">
-        <img src="/images/zugspitze_marathon.jpg" width="33%" align="left" style="padding:5px;"> 
-        I participated in the Scott Rock Zugspitze Marathon starting in Ehrwald and going up to the highest point in Germany at 2962m above sea level. The event started at 5am in the morning in rainy conditions. Shortly after the start the weather cleared up, and it took me 9:45 hours to complete the marathon (3965m ascend,1993m descend) and to reach the summit of Zugspitze.
+<img src="/images/zugspitze_marathon.jpg" width="33%" align="left" style="padding:5px;"> 
+I participated in the Scott Rock Zugspitze Marathon starting in Ehrwald and going up to the highest point in Germany at 2962m above sea level. The event started at 5am in the morning in rainy conditions. Shortly after the start the weather cleared up, and it took me 9:45 hours to complete the marathon (3965m ascend,1993m descend) and to reach the summit of Zugspitze.
 </div>
 
 <div class="wrap" style="padding:5px;border:thin solid black;">
