@@ -10,7 +10,7 @@ permalink: /personal/
         these fascinating biospheres. Furthermore, she develops new painting techniques to capture the diversity of organisms 
         and creatures, by implementing experiments with different substances and surfaces.
 </div>
-<br>
+<br style="line-height:0px;" />
 <div class="wrap" style="padding:5px;border:thin solid black;">
     <img src="/images/Biosensor.jpg" width="33%" align="left" style="padding:5px;">
     During my diploma studies I was a research assistant in the QUANTUM group of Prof. Dr. Arnold Rauschenbeutel. My project 
@@ -18,7 +18,7 @@ permalink: /personal/
     field of the very thin glass-fiber (diameter of 500nm) is sensitive to the type of molecules that are close or attached to 
     the fiber <a href = "{{ site.baseurl }}/mixed/Project_OpticalFiberBasedBiosensor.pdf"> (summary in German) </a>.
 </div>
-
+<br style="line-height:0px;" />
 <div class="wrap" style="padding:5px;border:thin solid black;">
         <img src="/images/jugend_forscht.jpg" width="33%" align="left" style="padding:5px;">
         In school I have taken part in "jugend forscht", which is a German Youth Science Competition. My project was to             
