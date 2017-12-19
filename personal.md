@@ -35,8 +35,8 @@ I participated in the Scott Rock Zugspitze marathon starting in Ehrwald and goin
 <div style="text-align:justify;">
 During my diploma studies I was a research assistant in the group of Prof. Dr. Arnold Rauschenbeutel. My project 
 was to construct an optical fiber-based biosensor. The idea was that the scattering of the evanescent radiation 
-field of a very thin glass-fiber is sensitive to the type of molecules that are close or attached to 
-the fiber <a href = "{{ site.baseurl }}/mixed/Project_OpticalFiberBasedBiosensor.pdf"> (summary in German) </a>.<br>
+field of a thin glass-fiber is sensitive to the type of molecules that are close to 
+the fiber <a href = "{{ site.baseurl }}/mixed/Project_OpticalFiberBasedBiosensor.pdf"> (German summary) </a>.<br>
 </div>
 </div>
 
