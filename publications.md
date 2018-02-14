@@ -4,19 +4,19 @@ layout: default
 
 <strong>Scientific peer-reviewed papers</strong>
 <ul>
-<li>Impact of warped extra dimensions on the dipole coefficients in b to s gamma transitions, R. Malm, M. Neubert, C. Schmell, <a href="https://link.springer.com/article/10.1007%2FJHEP04%282016%29042">JHEP 04, 042 (2016)</a>, <a class="titlelink" href="https://arxiv.org/abs/1509.02539">arXiv:1509.02539 [hep-ph]</a>
+<li>Impact of warped extra dimensions on the dipole coefficients in b to s gamma transitions, R. Malm, M. Neubert, C. Schmell, <a href="https://link.springer.com/article/10.1007%2FJHEP04%282016%29042">JHEP 04, 042 (2016)</a>, <a class="titlelink" href="https://arxiv.org/abs/1509.02539">arXiv: 1509.02539 [hep-ph]</a>
 </li>
 <li>
-Higgs Couplings and Phenomenology in a Warped Extra Dimension, R. Malm, M. Neubert, C. Schmell, JHEP 02, 008 (2015), <a class="titlelink" href="https://inspirehep.net/record/1311628">arXiv:1408.4456 [hep-ph]</a>
+Higgs Couplings and Phenomenology in a Warped Extra Dimension, R. Malm, M. Neubert, C. Schmell, <a href="http://dx.doi.org/10.1007/JHEP02(2015)008">JHEP 02, 008 (2015)</a>, <a class="titlelink" href="https://inspirehep.net/record/1311628">arXiv: 1408.4456 [hep-ph]</a>
 </li>
 <li>
-Higgs Decay into Two Photons at the Boundary of a Warped Extra Dimension, J. Hahn, C. Hörner, R. Malm, M. Neubert, K. Novotny, C. Schmell, Eur. Phys. J. C74, 2857 (2014), <a class="titlelink" href="https://inspirehep.net/record/1272895">arXiv:1312.5731 [hep-ph]</a>
+Higgs Decay into Two Photons at the Boundary of a Warped Extra Dimension, J. Hahn, C. Hörner, R. Malm, M. Neubert, K. Novotny, C. Schmell, <a href="https://arxiv.org/ct?url=http%3A%2F%2Fdx.doi.org%2F10%252E1140%2Fepjc%2Fs10052-014-2857-8&v=5107756a">Eur. Phys. J. C74, 2857 (2014)</a>, <a class="titlelink" href="https://inspirehep.net/record/1272895">arXiv: 1312.5731 [hep-ph]</a>
 </li>
 <li>
-5D Perspective on Higgs Production at the Boundary of a Warped Extra Dimension, R. Malm, M. Neubert, K. Novotny, C. Schmell, JHEP 01, 173 (2014), <a class="titlelink" href="https://inspirehep.net/record/1225129">arXiv:1303.5702 [hep-ph]</a> 
+5D Perspective on Higgs Production at the Boundary of a Warped Extra Dimension, R. Malm, M. Neubert, K. Novotny, C. Schmell, <a href="https://arxiv.org/ct?url=http%3A%2F%2Fdx.doi.org%2F10%252E1007%2FJHEP01%25282014%2529173&v=bf627196">JHEP 01, 173 (2014)</a>, <a class="titlelink" href="https://inspirehep.net/record/1225129">arXiv: 1303.5702 [hep-ph]</a> 
 </li>
 <li>
-A Solution to the Flavor Problem of Warped Extra-Dimension Models, M. Bauer, R. Malm, and M. Neubert, Phys. Rev. Lett. 108, 081603 (2012), <a class="titlelink" href="https://inspirehep.net/record/930421">arXiv:1110.0471 [hep-ph]</a>
+A Solution to the Flavor Problem of Warped Extra-Dimension Models, M. Bauer, R. Malm, and M. Neubert, <a href="https://arxiv.org/ct?url=http%3A%2F%2Fdx.doi.org%2F10%252E1103%2FPhysRevLett%252E108%252E081603&v=b455aed7">Phys. Rev. Lett. 108, 081603 (2012)</a>, <a class="titlelink" href="https://inspirehep.net/record/930421">arXiv: 1110.0471 [hep-ph]</a>
 </li>
 </ul>
 <strong>Doctoral thesis</strong>
