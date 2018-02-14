@@ -65,7 +65,7 @@ h4 {
 }
 
 h5 {
-  font-size: 12px; // default 15px
+  font-size: 15px; // default 15px
   color: $darkerGray;
   font-weight: normal;
 }
@@ -220,7 +220,7 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
-  font-size: 13px; // default 15px
+  font-size: 14px; // default 15px
 	
   @include mobile {
     float: none;
