@@ -4,7 +4,8 @@ layout: default
 
 <strong>Scientific peer-reviewed papers</strong>
 <ul>
-<li><a class="titlelink" href="https://inspirehep.net/record/1392652">Impact of warped extra dimensions on the dipole coefficients in b to s gamma transitions</a></li>
+<li><a class="titlelink" href="https://inspirehep.net/record/1392652">Impact of warped extra dimensions on the dipole coefficients in b to s gamma transitions</a>, R. Malm, M. Neubert, C. Schmell, JHEP 04, 042 (2016), arXiv:1509.02539 [hep-ph]
+</li>
 <li>
 <a class="titlelink" href="https://inspirehep.net/record/1311628">Higgs Couplings and Phenomenology in a Warped Extra Dimension</a></li>
 <li>
