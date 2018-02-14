@@ -220,21 +220,21 @@ nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
-  font-size: 14px; // default 15px
+  font-size: 13px; // default 15px
 	
   @include mobile {
     float: none;
     margin-top: 9px;
     display: block;
-    font-size: 16px;
+    font-size: 13px;
   }
 
   a {
-    margin-left: 18px;
+    margin-left: 15px; //default 18
     color: $darkGray;
     text-align: right;
     font-weight: 300;
-    letter-spacing: 1px;
+    letter-spacing: 0.5px;
 
     @include mobile {
       margin: 0 10px;
