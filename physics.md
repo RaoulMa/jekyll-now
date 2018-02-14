@@ -10,7 +10,7 @@ permalink: /physics/
     <img src="/images/RS_setup1.png" width="100%" style="padding:1px;border:thin solid black;"> <br><br>
     <img src="/images/RS_setup2.png" width="100%" style="padding:1px;border:thin solid black;"> <br><br>
     <img src="/images/RS_setup3.png" width="100%" style="padding:1px;border:thin solid black;"> <br><br>
-    <img src="/images/RS_setup4.png" width="80%" style="padding:1px;border:thin solid black;"> <br><br>
+    <img src="/images/RS_setup4.png" width="100%" style="padding:1px;border:thin solid black;"> <br><br>
     <img src="/images/RS_setup5.png" width="100%" style="padding:1px;border:thin solid black;"> 
 </div>
 <div class="fright">
