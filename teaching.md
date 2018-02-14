@@ -3,9 +3,10 @@ layout: default
 ---
 
 <strong>Lecture tutorials</strong>
+
 <ul>
 <li>
-Quantenfeldtheorie und Theoretische Elementarteilchenphysik <br>
+Quantum Field Theory and Theoretical Particle Physics <br>
 <a href="{{ site.baseurl }}/physics/SS2014/Exercise01.pdf"> [1] </a>
 <a href= "{{ site.baseurl }}/physics/SS2014/Exercise02.pdf"> [2] </a>
 <a href= "{{ site.baseurl }}/physics/SS2014/Exercise03.pdf"> [3] </a>
@@ -14,11 +15,10 @@ Quantenfeldtheorie und Theoretische Elementarteilchenphysik <br>
 <a href= "{{ site.baseurl }}/physics/SS2014/Exercise06.pdf"> [6] </a>
 <a href= "{{ site.baseurl }}/physics/SS2014/Exercise07.pdf"> [7] </a>
 <a href= "{{ site.baseurl }}/physics/SS2014/Exercise08.pdf"> [8] </a>
-
 </li>
 
 <li>
-Moderne Quantenfeldtheorie und Einfuehrung in das Standardmodell <br>
+Modern Quantum Field Theory and Introduction to the Standard Model <br>
 <a href="{{ site.baseurl }}/physics/WS201314/Exercise01.pdf"> [1] </a>
 <a href="{{ site.baseurl }}/physics/WS201314/Exercise02.pdf"> [2] </a>
 <a href="{{ site.baseurl }}/physics/WS201314/Exercise03.pdf"> [3] </a>
@@ -26,8 +26,9 @@ Moderne Quantenfeldtheorie und Einfuehrung in das Standardmodell <br>
 <a href="{{ site.baseurl }}/physics/WS201314/Exercise05.pdf"> [5] </a>
 <a href="{{ site.baseurl }}/physics/WS201314/Exercise06.pdf"> [6] </a>
 </li>
-<li>
-Hoehere Quantenmechanik und Quantenfeldtheorie<br>
+
+<li>  
+Higher Quantum Mechanics and Quantum Field Theory<br>
 <a href="{{ site.baseurl }}/physics/WS201213/Blatt01a.pdf"> [1a] </a>
 <a href="{{ site.baseurl }}/physics/WS201213/Blatt01b.pdf"> [1b] </a>
 <a href="{{ site.baseurl }}/physics/WS201213/Blatt02.pdf"> [2] </a>
