@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /physics/
+permalink: /research/
 ---
 
 <div style="text-align:justify;">
