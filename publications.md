@@ -22,13 +22,13 @@ A Solution to the Flavor Problem of Warped Extra-Dimension Models, M. Bauer, R. 
 <strong>Doctoral thesis</strong>
 <ul>
 <li>
-Five-dimensional Perspective on Higgs Physics and the b to s gamma Transition in a Warped Extra Dimension, R. Malm [<a href="https://d-nb.info/1120148685/34">pdf</a>]
+Five-dimensional Perspective on Higgs Physics and the b to s gamma Transition in a Warped Extra Dimension, R. Malm, Johannes-Gutenberg University Mainz [<a href="https://d-nb.info/1120148685/34">pdf</a>]
 </li>
 </ul>
 <strong>Diploma thesis</strong>
 <ul>
 <li>
-Mitigation of the Epsilon K Fine-tuning Problem in the Randall-Sundrum Model, R. Malm [<a href="{{ site.baseurl }}/physics/diplomathesis.pdf">pdf</a>]
+Mitigation of the Epsilon K Fine-tuning Problem in the Randall-Sundrum Model, R. Malm, Johannes-Gutenberg University Mainz [<a href="{{ site.baseurl }}/physics/diplomathesis.pdf">pdf</a>]
 </li>
 </ul>
 <strong>Talks</strong>
