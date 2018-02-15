@@ -34,29 +34,31 @@ Mitigation of the Epsilon K Fine-tuning Problem in the Randall-Sundrum Model, R.
 <strong>Talks</strong>
 <ul>
 <li>
-Loop Processes and Higgs Phenomenology in a Warped Extra Dimension, R. Malm
-[<a href="{{ site.baseurl }}/physics/Talks/GRK_2014.pdf">pdf</a>]
+Loop Processes and Higgs Phenomenology in a Warped Extra Dimension, R. Malm, Ludwig Maximilian University of Munich [<a href="{{ site.baseurl }}/physics/Talks/Talk_2014_LUM_Munich.pdf">pdf</a>]
 </li>
 <li>
-5D Perspective on Higgs Production via Gluon Fusion at the Boundary of a Warped Extra Dimension, R. Malm [<a href="{{ site.baseurl }}/physics/Talks/GRK_2013.pdf">pdf</a>]
+Loop Processes and Higgs Phenomenology in a Warped Extra Dimension, R. Malm, Graduate Summer School, Frauenchiemsee in Bavaria [<a href="{{ site.baseurl }}/physics/Talks/GRK_2014.pdf">pdf</a>]
 </li>
 <li>
-Mitigation of the Epsilon K Fine-tuning Problem in the Randall-Sundrum Model, R. Malm [<a href="{{ site.baseurl }}/physics/Talks/GRK_2012.pdf">pdf</a>]
+5D Perspective on Higgs Production via Gluon Fusion at the Boundary of a Warped Extra Dimension, R. Malm, Graduate School Retreat, Eberbach Abbey, Eltville [<a href="{{ site.baseurl }}/physics/Talks/GRK_2013.pdf">pdf</a>]
 </li>
 <li>
-Neutrinos faster than light? Theoretical aspects, R. Malm [<a href="{{ site.baseurl }}/physics/Talks/Neutrinos_2012.pdf">pdf</a>]
+Mitigation of the Epsilon K Fine-tuning Problem in the Randall-Sundrum Model, R. Malm, Graduate School Annual Retreat, Bad Kreuznach [<a href="{{ site.baseurl }}/physics/Talks/GRK_2012.pdf">pdf</a>]
+</li>
+<li>
+Neutrinos faster than light? Theoretical aspects, R. Malm, Johannes-Gutenberg University Mainz [<a href="{{ site.baseurl }}/physics/Talks/Neutrinos_2012.pdf">pdf</a>]
 </li>
 </ul>
 
 <strong>Posters</strong>
 <ul>
 <li>
-Impact of Warped Extra Dimensions on the Dipole Coefficients in b to s gamma Transitions, R. Malm [<a href="{{ site.baseurl }}/physics/Talks/Poster_2015.pdf">pdf</a>]
+Impact of Warped Extra Dimensions on the Dipole Coefficients in b to s gamma Transitions, R. Malm, Johannes-Gutenberg University Mainz [<a href="{{ site.baseurl }}/physics/Talks/Poster_2015.pdf">pdf</a>]
 </li>
 <li>
-5D Perspective on Higgs Production at the Boundary of a Warped Extra Dimension, R. Malm [<a href="{{ site.baseurl }}/physics/Talks/Poster_2013.pdf">pdf</a>]
+5D Perspective on Higgs Production at the Boundary of a Warped Extra Dimension, R. Malm, Johannes-Gutenberg University Mainz [<a href="{{ site.baseurl }}/physics/Talks/Poster_2013.pdf">pdf</a>]
 </li>
 <li>
-Solution to the RS Flavour Problem, R. Malm [<a href="{{ site.baseurl }}/physics/Talks/Poster_2012.pdf">pdf</a>]
+Solution to the RS Flavour Problem, R. Malm, Johannes-Gutenberg University Mainz [<a href="{{ site.baseurl }}/physics/Talks/Poster_2012.pdf">pdf</a>]
 </li>
 </ul>
