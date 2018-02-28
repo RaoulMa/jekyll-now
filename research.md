@@ -3,6 +3,8 @@ layout: page
 permalink: /research/
 ---
 
+<strong>Theoretical High Energy Physics</strong>
+
 <div style="text-align:justify;">
 
 <div class="wrap">
