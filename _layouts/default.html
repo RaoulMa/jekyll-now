@@ -23,7 +23,7 @@
 
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description" style="font-size: 14px">{{ site.description }} <br>
+            <p class="site-description" style="font-size: 13px">{{ site.description }} <br>
               <font style="font-size: 13px">
               <a href="https://www.linkedin.com/in/raoulmalm/"> linkedin </a>, 
               <a href="https://scholar.google.de/citations?user=ToSD2u8AAAAJ&hl=de"> google scholar </a> |
@@ -35,9 +35,7 @@
 
           <nav>
             <a href="{{ site.baseurl }}/">About</a>          
-            <a href="{{ site.baseurl }}/publications">Publications</a>
             <a href="{{ site.baseurl }}/research">Research</a>
-            <a href="{{ site.baseurl }}/teaching">Teaching</a>
             <a href="{{ site.baseurl }}/personal">Personal</a>
             <a href="{{ site.baseurl }}/mixed/Resume_Public_Dr_Raoul_Malm.pdf">CV</a>
           </nav>
@@ -46,16 +44,18 @@
     </div>
 
     <div id="main" role="main" class="container">
-      <h5>{{ content }}</h5>
+    <h5>{{ content }}</h5>
     </div>
 
-    <div class="wrapper-footer">
+<!--   
+<div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
           {% include svg-icons.html %}
         </footer>
       </div>
     </div>
+-->
 
     {% include analytics.html %}
   </body>
